@@ -1,14 +1,12 @@
-# **REAL-TIME-SENTIMENT-ANALYSIS**
+# **HUMAN-SENTIMENT-ANALYSIS**
 
-<img src="Image/logo.png" width="1000">
 
 
 # Problem Statement:
 
-This project is on sentiment analysis using Natural Language Processing in which people's sentiments are recognised. It determines positive or negative according to the sentiment sentence given. 
+This is a vry primitive  project  on sentiment analysis using Natural Language Processing in which people's sentiments are recognised. It determines positive or negative according to the sentiment sentence given. 
 
 In this project, we worked on applying **Sentiment Analysis on Various Datasets for analyzing Domestic Violence going on at households during lockdown .**
-
 
 <img src="Image/domestic-violence.jpeg" width="800">
 
