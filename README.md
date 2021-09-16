@@ -6,7 +6,7 @@
 
 This is a very primitive yet pretty realistic  project  on sentiment analysis using Natural Language Processing in which people's sentiments are recognised. It determines positive or negative according to the sentiment sentence given. 
 
-In this project, we worked on applying **Sentiment Analysis on Various Datasets for analyzing Domestic Violence going on at households during lockdown .**
+In this project, a research has been carried out  on **Sentiment Analysis on Various Datasets for analyzing Domestic Violence going on at households during lockdown ** . 
 
 <img src="Image/domestic-violence.jpeg" width="800">
 
