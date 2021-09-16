@@ -2,9 +2,6 @@
 
 <img src="Image/logo.png" width="1000">
 
-[Image Source](https://letsupgrade.in/)
-
-**Project ID: 17**
 
 # Problem Statement:
 
